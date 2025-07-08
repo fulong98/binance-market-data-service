@@ -1,0 +1,15 @@
+# IDE 配置
+.idea/
+.vscode/
+
+# 临时文件
+*.rs.bk
+*.log
+*.tmp
+*~
+
+# Cargo.lock（可选，取决于是否是库）
+Cargo.lock
+
+
+/target/
